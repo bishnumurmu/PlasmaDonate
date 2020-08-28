@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209893084083",
+    "firebase_url": "https://plasma-donate-af687.firebaseio.com",
+    "project_id": "plasma-donate-af687",
+    "storage_bucket": "plasma-donate-af687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209893084083:android:e7a3de93aafad52a1f19c6",
+        "android_client_info": {
+          "package_name": "com.project.plasmadonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209893084083-kchcoa7cb93lg54vi1inb66j35cgk568.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoj5SRAX3PTL8bTP7Ke-H_haTDohgDh-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209893084083-kchcoa7cb93lg54vi1inb66j35cgk568.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
