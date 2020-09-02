@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 
-import com.project.plasmadonate.profile.DonorProfileActivity;
+import com.project.plasmadonate.profile.DashboardActivity;
 
 public class Shared {
 
@@ -39,7 +39,7 @@ public class Shared {
     public void firstTime(){
         if(this.login()){
 
-            Intent intent = new Intent(context, DonorProfileActivity.class);
+            Intent intent = new Intent(context, DashboardActivity.class);
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 
